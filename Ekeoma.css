@@ -1,0 +1,94 @@
+body{
+    padding: 0;
+    margin: 0;
+  }
+    .main{
+    padding-left: 30px;
+    background-image: url('https://images.pexels.com/photos/6802049/pexels-photo-6802049.jpeg?auto=compress&cs=tinysrgb&w=400 ');
+    height: 600px;
+    object-fit: contain;
+    
+    
+  }
+  .Tradevolt{
+    font-size: 25px;
+    font-weight: 900;
+    color: white;
+    padding-top: 40px;
+    padding-left:50px;
+  }
+  .heading{
+    font-size: 35px;
+    font-weight: 500;
+    color: white;
+    padding-top: 40px;
+  }
+  .green{
+    color: green;
+  }
+  .signup{
+    color: white;
+    background-color: lightgreen ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 35px;
+    width: 195px;
+    height: 50px;
+    font-size: 25px;
+    font-weight: 500;
+  }
+  .writeup{
+    color: white;
+  }
+  .seconddiv{
+    height: 3000px;
+    background-color: #BEBDB8;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   
+  }
+  .best{
+    color: #281E5D;
+    font-size: 40px;
+    font-weight: 600;
+    padding-left: 0;
+     padding-top: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .why{
+    font-size: 25px;
+    font-weight: 300;
+    color: #0A1172;
+      padding-top: 20px;
+    padding-right: 30px;
+  }
+  .team{
+   padding-left: 60px;
+  padding-right: 30px;
+  padding-top: 15px;
+  }
+  .divtwo{
+    height: 280px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: white;
+  }
+  .headingtwo{
+    font-size: 25px;
+    color:#0A1172 ;
+  }
+  .note{
+    font-size: 15px;
+    color: black;
+  }
